@@ -6,7 +6,7 @@ const getData = require("./api.js");
 var info = {
     "about": "This is Unofficial The Tureng Dictionary JSON API where you can search English & Turkish words by typing /api/:word",
     "example": "https://tureng-api.vercel.app/api/butterfly",
-    "madeWith": "node.js",
+    "madeWith": "node.js and  https://tureng.com",
     "createdBy": "Mehmet Burak Erman"
 }
 info = JSON.stringify(info, null, 4);
