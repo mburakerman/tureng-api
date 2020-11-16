@@ -5,7 +5,7 @@ const getData = require("./api.js");
 
 var info = {
     "about": "This is The Tureng Dictionary JSON API where you can search English & Turkish words by typing /api/:word",
-    "example": "https://tureng-api.glitch.me/api/butterfly",
+    "example": "https://tureng-api.vercel.app/api/butterfly",
     "madeWith": "node.js",
     "createdBy": "Mehmet Burak Erman"
 }
